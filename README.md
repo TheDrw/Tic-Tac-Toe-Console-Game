@@ -1,6 +1,6 @@
 # Tic Tac Toe Console Game
 
-This is a simple tic tac toe console game made in C++17. At least, I hope I made it in C++17. I used smart pointers in a not very smart way, but it should be okay. The numbers on the board correspond ot the numbers on your keyboardz, so:
+This is a simple tic tac toe console game made in C++17 using VS2017. At least, I hope I made it in C++17. I used smart pointers in a not very smart way, but it should be okay. The numbers on the board correspond ot the numbers on your keyboardz, so:
 
 1 | 2 | 3<br>
 4 | 5 | 6<br>
